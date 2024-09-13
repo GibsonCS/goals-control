@@ -9,14 +9,18 @@ The project is a control of personal goals. It is a project that was built follo
 ### _Main technologies :_
 * **NodeJS** _(LTS version) :_ Developement of an backend application in to explore the maximim this robust language.
 
+
 * **Fastify :** Use of the concepts of _Rest API_ using the framework.
 
 * **Postgres** + **Drizzle ORM :** to data base integration.
 
-* **Docker Compose**.
 
 * **Zod :** to data validation.
 
 * **ReactJS :** to the frontend application.
 
 * **TailwindCSS :** to an responsive interface.
+
+* **Typescript**
+
+* **Docker Compose**.
